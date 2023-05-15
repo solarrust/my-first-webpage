@@ -18,6 +18,6 @@
 ### Портфолио пока состоит только из этого сайта))0)
 
 Тута вот моя каракатица синяя, только после покраски приборной панели
-![](https://github.com/ArtemBalu/my-first-webpage/blob/main/OylRZUugjYQ.jpg?raw=true)
+![Matiz](https://github.com/ArtemBalu/my-first-webpage/blob/main/OylRZUugjYQ.jpg?raw=true)
 А здесь мои обои рабочего стола. Красивое...
-![](https://github.com/ArtemBalu/my-first-webpage/blob/main/NQG3mMKA4Yg.jpg?raw=true)
+![Titanic](https://github.com/ArtemBalu/my-first-webpage/blob/main/NQG3mMKA4Yg.jpg?raw=true)
